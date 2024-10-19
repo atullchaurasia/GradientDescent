@@ -1,7 +1,3 @@
-Here’s a detailed GitHub README file for your **Gradient Descent Project**:
-
----
-
 # Gradient Descent Visualization Project
 
 This project provides a comprehensive visualization of various Gradient Descent algorithms. The goal is to illustrate the working mechanisms of these optimization algorithms through intuitive Python implementations and interactive plots. The project includes implementations of:
